@@ -12,7 +12,7 @@ require (
 	github.com/lucor/goinfo v0.0.0-20230226084616-00a3782edfe9
 	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2
 	github.com/stretchr/testify v1.8.2
-	github.com/urfave/cli/v2 v2.25.1
+	github.com/urfave/cli/v2 v2.4.0
 	golang.org/x/mod v0.10.0
 	golang.org/x/sys v0.7.0
 	golang.org/x/tools v0.8.0
@@ -26,6 +26,5 @@ require (
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
-	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
